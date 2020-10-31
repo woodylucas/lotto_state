@@ -5,6 +5,9 @@ function App() {
   return (
     <div className="App">
       <Ball num={17} />
+      <Ball num={13} />
+      <Ball num={11} />
+      <Ball num={9} />
     </div>
   );
 }
